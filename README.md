@@ -1,6 +1,8 @@
 # Podcast-Scraper-w-AI-Transcription
 Python program that downloads and transcribes podcasts based on keywords you like
 
+You can enter any amount of keywords and tailor it to whatever niche you prefer
+
 AI Transcription done with AssemblyAI (https://www.assemblyai.com/docs/guides/transcribing-an-audio-file)
 but you can use AWS or a bunch of other API's out there.
 
