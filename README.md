@@ -8,9 +8,12 @@ but you can use AWS or a bunch of other API's out there.
 
 
 Requirments: 
+
+'''bash
 requests
 beautifulsoup4
 lxml
+'''
 
 
 *Heads Up* :AssemblyAI now requires billing information to view the transcription queue dashboard(to get the transcript id), it's still free but one extra step
